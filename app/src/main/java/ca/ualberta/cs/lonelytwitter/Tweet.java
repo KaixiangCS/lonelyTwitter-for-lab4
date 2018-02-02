@@ -16,10 +16,10 @@ public abstract class Tweet implements Tweetable{
     private Date date;
 
 
-    }
+
     public Tweet(String message){
         this.message = message;
-        date = new Date;
+        date = new Date();
     }
 
     /**

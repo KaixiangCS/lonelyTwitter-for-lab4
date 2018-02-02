@@ -10,8 +10,7 @@ package ca.ualberta.cs.lonelytwitter;
  * Represents an important tweet.
  * @author kaixiang
  * @version 1.5
- * @see ca.ualberta.cs.lonelytwitter.NormalTweet
- * @see ca.ualberta.cs.lonelytwitter.Tweetweet
+ * @see ca.ualberta.cs.lonelytwitter.Tweet
  *
  */
 
